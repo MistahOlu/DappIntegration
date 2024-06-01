@@ -1,0 +1,6 @@
+
+
+start-app:
+	@echo "starting my dapp locally"
+	@yarn start 
+
